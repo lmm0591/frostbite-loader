@@ -1,0 +1,22 @@
+{
+  "name": "frostbite-loader",
+  "version": "1.0.0",
+  "description": "配合 frostbite editor 可视化开发做的 loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmm0591/frostbite-loader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmm0591/frostbite-loader/issues"
+  },
+  "homepage": "https://github.com/lmm0591/frostbite-loader#readme",
+  "dependencies": {
+    "react-analysis": "^1.0.2"
+  }
+}
